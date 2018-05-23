@@ -15,3 +15,8 @@ Marcel Salathé, EPFL, marcel.salathe@epfl.ch
 Scott Delp, Stanford, delp@stanford.edu
 
 Webpage: https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge 
+
+
+Github:
+
+https://github.com/stanfordnmbl/osim-rl
